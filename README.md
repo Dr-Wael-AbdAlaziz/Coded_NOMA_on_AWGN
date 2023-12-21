@@ -5,6 +5,9 @@ We put it before you to disseminate information and contribute to providing scie
 Therefore, as a matter of appreciation, we ask you to refer to this research and other contributing scientific works.
 We wish you success in your scientific and research career.
 
+This code is for the paper "Exact BER Performance Analysis of an Elementary Coding Techniques for NOMA System on AWGN Channel"
+in:  https://www.radioeng.cz/fulltexts/2024/24_01_0045_0053.pdf
+
 Dr. Wael Abd Alaziz
 University of Sumer
 w.abdalaziz@uos.edu.iq
